@@ -1,4 +1,4 @@
-# APAN5900 Crystal Synergy Week 2 – 6 Tasks
+# APAN5900 Crystal Synergy 
 
 # Project Goal:
 # First Part (Week 1-6) – Python, R, Tableau Slide
@@ -8,6 +8,12 @@ Select the attributes for analysis
 Cleaning yearly data (per month, per quarter, per year)
 Data Summary (dataset summary, attributes explanation, missing values)
 Missing value imputation (if needed)
+
+# Week 2: Data Cleaning
+Add details later
+
+# Week 3: 
+
 
 ## Historical Data Overview
 What has Crystal D’s revenue looked like in the past 6 years? (Python for data manipulation & Tableau Dashboard for Visualization) (Week 2-3)
